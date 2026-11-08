@@ -1,6 +1,6 @@
 --[[
 Create Window:
-local Lib = loadstring(game:HttpGet(" dien http vao day"))()
+local Lib = loadstring(game:HttpGet("dien http vao day"))()
 local Main = Lib:royxstart("Royx Hub")
 
 Create Tabs
